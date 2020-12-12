@@ -1,4 +1,4 @@
-# ender3Management
+# Gestion du blocage de filament 
 Le but est d'ajouter un capteur de filament tendu pour mettre en pause l'imprimante afin de défaire les noeuds.
 
 ## Links 
