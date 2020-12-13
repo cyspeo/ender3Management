@@ -5,6 +5,9 @@ Le but est d'ajouter un capteur de filament tendu pour mettre en pause l'imprima
 Installation rasbian sans écran ni clavier:
 https://raspberry-pi.fr/raspberry-pi-sans-ecran-sans-clavier/
 
+Camera esp32 :
+http://electroniqueamateur.blogspot.com/2020/01/esp32-cam-premiere-utilisation-avec.html
+
 ## Materiel
 - un raspberry
 - un capteur bouton poussoir
