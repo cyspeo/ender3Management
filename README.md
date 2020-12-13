@@ -8,6 +8,9 @@ https://raspberry-pi.fr/raspberry-pi-sans-ecran-sans-clavier/
 Camera esp32 :
 http://electroniqueamateur.blogspot.com/2020/01/esp32-cam-premiere-utilisation-avec.html
 
+Utisation d'une camera usb standard sur le raspberry:
+https://www.raspberrypi.org/documentation/usage/webcams/
+
 ## Materiel
 - un raspberry
 - un capteur bouton poussoir
