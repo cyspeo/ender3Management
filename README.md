@@ -28,6 +28,6 @@ python -m pip install pyserial
 python ./sendgcode.py -p'/dev/ttyUSB0' -c'G1 X0.1 Y200.0 Z0.3 F1500.0 E15'
 
 ### Alimenter le raspberry avec l'laim 3d
-https://www.youtube.com/watch?v=y9P8JSu0wBk
-http://www.crackedconsole.com/community/3dprinting-ender3-upgrades/my-ender-3-upgrades-so-far/
-https://www.thingiverse.com/thing:3030160
+- https://www.youtube.com/watch?v=y9P8JSu0wBk
+- http://www.crackedconsole.com/community/3dprinting-ender3-upgrades/my-ender-3-upgrades-so-far/
+- https://www.thingiverse.com/thing:3030160
